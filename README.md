@@ -1,34 +1,34 @@
-# [Project Name] 🎯
+# [GRID] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [LUNA]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [FAHMIYAH BINTH ASHRAF] - [COLLEGE OF ARCHITECTURE TRIVANDRUM]
+- Member 2: [RIDHA PANGAT] - [COLLEGE OF ARCHITECTURE TRIVANDRUM]
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://www.figma.com/design/ewpSgI6RROq74XopehWg7Y/Grid?node-id=20-12&t=oxJV1iZLYOfoj2rt-1]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Easily accessible team building website for Construction Professionals and students. It offers a variety of tools and activities that promote collaboration and  communication helping improve efficiency and teamwork on construction projects. ]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Construction pros and students need a team-building platform, because you can't nail a project together if no one’s on the same blueprint!]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Our platform provides construction professionals and students with fun, interactive team-building activities designed to improve communication and collaboration by engaging in events and workshops.students and pros can easily apply for jobs.Resourses for softwares in constructions are available within our platform by subscription]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [Figma,VS code,Git]
 
 For Hardware:
 - [List main components]
